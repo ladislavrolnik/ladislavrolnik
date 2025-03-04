@@ -1,5 +1,5 @@
 ## Hi there 👋
-I have over 7 years experience in Software Engineering.
+I have over 10 years experience in Software Engineering.
 Graduated from Masaryk University in Brno.
 The tech stack on readme is mostly what makes sense to me, I was during career working with,
 but its matter of change.
